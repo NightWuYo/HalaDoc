@@ -8,7 +8,6 @@
 ## 需要的权限
 
 1. Products, variants: Read and write
-
 2. Store info: Read access
 
-![Permissions Required](https://raw.githubusercontent.com/NightWuYo/HalaDoc/en/images/shoplazza_permissions.png)
+![Permissions Required](https://github.com/NightWuYo/HalaDoc/blob/main/en/images/shoplazza_permissions.png?raw=true)
