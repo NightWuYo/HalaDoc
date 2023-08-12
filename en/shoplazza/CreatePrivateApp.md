@@ -5,11 +5,11 @@ Thid doc explains how to create a private app in Shoplazza, and the permissions 
 ## 1. Manage Private Apps
 Log in to Shoplazza Store Admin, and then click "Manage private apps".
 
-![Manage private apps](https://github.com/NightWuYo/HalaDoc/blob/main/en/images/shoplazza_manage_apps.png?raw=true)
+![Manage private apps](https://n.halaylmz.com/images/doc/shoplazza_manage_apps.png)
 
 ## 2. Create App
 Click "Create App".
-![Manage private apps](https://github.com/NightWuYo/HalaDoc/blob/main/en/images/shoplazza_create_app.png?raw=true)
+![Manage private apps](https://n.halaylmz.com/images/doc/shoplazza_create_app.png)
 
 ## 3. App Details
 Input app details, please check [Permissions Required](#permissions-required).
