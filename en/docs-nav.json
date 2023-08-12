@@ -1,0 +1,13 @@
+{
+   "items": [
+      {
+         "text": "Shoplazza Integration",
+         "items": [
+            {
+               "text": "Create Private App",
+               "path": "shoplazza/CreatePrivateApp.md"
+            }
+         ]
+      }
+   ]
+}

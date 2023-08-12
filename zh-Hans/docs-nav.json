@@ -1,0 +1,13 @@
+{
+   "items": [
+      {
+         "text": "Shoplazza 对接",
+         "items": [
+            {
+               "text": "创建私有应用",
+               "path": "shoplazza/CreatePrivateApp.md"
+            }
+         ]
+      }
+   ]
+}
