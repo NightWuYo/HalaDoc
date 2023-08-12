@@ -24,9 +24,9 @@ Input app details, please check [Permissions Required](#permissions-required).
 
 2. Store info: Read access
 
-![Permissions Required](https://github.com/NightWuYo/HalaDoc/blob/main/en/images/shoplazza_permissions.png?raw=true)
+![Permissions Required](https://n.halaylmz.com/images/doc/shoplazza_permissions.png)
 
 ## 4. Get Access Token
 Please copy the **Access Token**, share it (along with shop URL) to Hala Center team.
 
-![Access Token](https://github.com/NightWuYo/HalaDoc/blob/main/en/images/shoplazza_access_token.png?raw=true)
+![Access Token](https://n.halaylmz.com/images/doc/shoplazza_access_token.png)

@@ -24,10 +24,10 @@
 
 2. Store info: Read access
 
-![Permissions Required](https://github.com/NightWuYo/HalaDoc/blob/main/en/images/shoplazza_permissions.png?raw=true)
+![Permissions Required](https://raw.githubusercontent.com/NightWuYo/HalaDoc/latest/en/images/shoplazza_permissions.png)
 
 ## 4. Get Access Token
 请把 **Access Token** 和店铺地址，发送给哈拉通团队.
 
-![Access Token](https://github.com/NightWuYo/HalaDoc/blob/main/en/images/shoplazza_access_token.png?raw=true)
+![Access Token](https://raw.githubusercontent.com/NightWuYo/HalaDoc/latest/en/images/shoplazza_access_token.png)
 
