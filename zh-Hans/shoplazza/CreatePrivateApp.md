@@ -2,12 +2,32 @@
 
 这个文档描述了如何在 Shoplazza 里创建私有应用, 以及哈拉通需要的权限.
 
-## 如何创建私有应用
-请访问官方文档 [创建私有应用](https://www.shoplazza.dev/reference/create-an-app#private-app)
+## 1. 管理私有应用
+登录 Shoplazza 商店管理后台, 点击 "Manage private apps".
 
-## 需要的权限
+![Manage private apps](https://github.com/NightWuYo/HalaDoc/blob/main/en/images/shoplazza_manage_apps.png?raw=true)
+
+## 2. 创建App
+点击 "Create App".
+![Manage private apps](https://github.com/NightWuYo/HalaDoc/blob/main/en/images/shoplazza_create_app.png?raw=true)
+
+## 3. App 详细配置
+输入App详细配置信息, 请注意 [需要的权限](#需要的权限).
+
+- Private app name: 任何名字
+- Emergency developer email: 任何电子邮箱地址
+- WebHook API version: 2020-01
+
+### 需要的权限
 
 1. Products, variants: Read and write
+
 2. Store info: Read access
 
 ![Permissions Required](https://github.com/NightWuYo/HalaDoc/blob/main/en/images/shoplazza_permissions.png?raw=true)
+
+## 4. Get Access Token
+请把 **Access Token** 和店铺地址，发送给哈拉通团队.
+
+![Access Token](https://github.com/NightWuYo/HalaDoc/blob/main/en/images/shoplazza_access_token.png?raw=true)
+
